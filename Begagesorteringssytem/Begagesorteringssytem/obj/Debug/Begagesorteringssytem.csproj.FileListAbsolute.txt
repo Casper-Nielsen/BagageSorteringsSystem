@@ -1,0 +1,7 @@
+C:\Users\casp8660\source\repos\Begagesorteringssytem\Begagesorteringssytem\bin\Debug\Begagesorteringssytem.exe.config
+C:\Users\casp8660\source\repos\Begagesorteringssytem\Begagesorteringssytem\bin\Debug\Begagesorteringssytem.exe
+C:\Users\casp8660\source\repos\Begagesorteringssytem\Begagesorteringssytem\bin\Debug\Begagesorteringssytem.pdb
+C:\Users\casp8660\source\repos\Begagesorteringssytem\Begagesorteringssytem\obj\Debug\Begagesorteringssytem.csprojAssemblyReference.cache
+C:\Users\casp8660\source\repos\Begagesorteringssytem\Begagesorteringssytem\obj\Debug\Begagesorteringssytem.csproj.CoreCompileInputs.cache
+C:\Users\casp8660\source\repos\Begagesorteringssytem\Begagesorteringssytem\obj\Debug\Begagesorteringssytem.exe
+C:\Users\casp8660\source\repos\Begagesorteringssytem\Begagesorteringssytem\obj\Debug\Begagesorteringssytem.pdb
